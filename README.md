@@ -13,7 +13,7 @@ Confronta le fatture emesse (gestionale) con il file SDI e segnala le discrepanz
 Doppio clic sul file, oppure da terminale:
 
 ```
-python controllo_fatture.py
+python SdiCheck.py
 ```
 
 Si apre una finestra. Non serve usare la riga di comando per i parametri.
