@@ -7,7 +7,6 @@ Confronta le fatture emesse (gestionale) con il file SDI e segnala le discrepanz
 - Python 3.x
 - Librerie: `pip install pandas openpyxl`
 
-(`tkinter` è già incluso in Python.)
 
 ## Avvio
 
